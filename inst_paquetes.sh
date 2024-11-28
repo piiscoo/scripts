@@ -8,6 +8,9 @@ PAQUETES=(
     "htop"
     "docker.io"
     "build-essential"
+    "apache2"
+    "mc"
+    "ufw"
 )
 
 echo "Instalando paquetes..."
